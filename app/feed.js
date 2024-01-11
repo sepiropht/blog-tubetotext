@@ -5,8 +5,8 @@ export function generateFeed(posts, metadata) {
 
   const feedOptions = {
     author: {
-      name: 'Dan Abramov',
-      email: 'dan.abramov@gmail.com',
+      name: 'sepiropht',
+      email: 'sergembotta@mailoo.org',
       link: site_url,
     },
     description: metadata.description,
