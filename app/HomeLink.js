@@ -9,7 +9,7 @@ export default function HomeLink() {
   const isActive = pathname === '/'
   return (
     <Link
-      href="/"
+      href="https://tubetotext.com"
       className={[
         sans.className,
         'inline-block text-2xl font-black',
